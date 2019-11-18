@@ -31,9 +31,10 @@
   .right    {  text-align: right;    }
   .centered {  text-align: center;   }
 
-  .padded   {  padding: 5%;    }
-  .padded-1 {  padding: 1rem;  }
-  .padded-2 {  padding: 2rem;  }
+  .padded       {  padding: 5%;    }
+  .padded-ltr   {  padding: 5% 5% 0% 5%;    }
+  .padded-1     {  padding: 1rem;  }
+  .padded-2     {  padding: 2rem;  }
 
   .tall-50  {  min-height: 50vh;   }
   .tall-100 {  min-height: 100vh;  }
