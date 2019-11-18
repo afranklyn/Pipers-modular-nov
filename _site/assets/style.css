@@ -297,7 +297,7 @@
   }
 
   .catering-banner {
-    background-image: url('/images/catering.jpg');
+    background-image: url('/images/catering-landscape.jpg');
     background-size: cover;
     background-position: center;
     min-height: 80vh;
