@@ -129,11 +129,12 @@
     color: rgb(60, 60, 60);
     background-color: #FAD7A0;
     border: 2px solid;
+    border-color: #FAD7A0;
     padding: 0.6rem 2rem;
     margin-top: 1rem;
     display: inline-block;
     text-transform: uppercase;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     font-weight: 900;
   }
 
