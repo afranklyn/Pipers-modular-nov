@@ -126,7 +126,7 @@
   .button-solid,
   .button-inverted {
     text-decoration: none;
-    color: rgb(60, 60, 60)
+    color: rgb(60, 60, 60);
     background-color: #FAD7A0;
     border: 2px solid;
     padding: 0.6rem 2rem;
