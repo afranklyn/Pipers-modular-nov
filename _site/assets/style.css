@@ -126,14 +126,15 @@
   .button-solid,
   .button-inverted {
     text-decoration: none;
-    color: #FAD7A0;
+    color: rgb(60, 60, 60)
+    background-color: #FAD7A0;
     border: 2px solid;
     padding: 0.6rem 2rem;
     margin-top: 1rem;
     display: inline-block;
     text-transform: uppercase;
     font-size: 0.9rem;
-    font-weight: 500;
+    font-weight: 900;
   }
 
   .button:hover {
