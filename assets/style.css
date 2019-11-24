@@ -299,14 +299,14 @@
   }
 
   .catering-banner {
-    background-image: url('/images/catering-landscape3.jpg');
+    background-image: url('/images/wedding-catering.jpg');
     background-size: cover;
     background-position: center;
     min-height: 80vh;
   }
 
-  .catering-banner2 {
-    background-image: url('/images/catering-landscape2.jpg');
+  .catering-banner-landscape {
+    background-image: url('/images/wedding-catering-landscape.jpg');
     background-size: cover;
     background-position: center;
     min-height: 80vh;
