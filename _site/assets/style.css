@@ -305,6 +305,13 @@
     min-height: 80vh;
   }
 
+  .catering-banner2 {
+    background-image: url('/images/catering-landscape2.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 80vh;
+  }
+
   .fixed {
     background-attachment: fixed;
   }
