@@ -3,3 +3,4 @@ permalink: /:year/:title
 collections:
   archives:
     output: true
+    include: [_redirects]
