@@ -312,6 +312,13 @@
     min-height: 80vh;
   }
 
+  .bar-banner-landscape {
+    background-color: #A1BEC2;
+    background-size: cover;
+    background-position: center;
+    min-height: 15vh;
+  }
+
   .fixed {
     background-attachment: fixed;
   }
