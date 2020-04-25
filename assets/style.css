@@ -305,6 +305,13 @@
     min-height: 80vh;
   }
 
+  .coffee-banner {
+    background-image: url('/images/pipers-coffee-coalition.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 80vh;
+  }
+
   .catering-banner-landscape {
     background-image: url('/images/wedding-catering-landscape.jpg');
     background-size: cover;
